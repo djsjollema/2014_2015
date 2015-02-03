@@ -1,0 +1,26 @@
+#canvas{
+	border:1px solid #000;
+	display:block;
+	margin:auto;
+}
+h1{
+	text-align:center;
+}
+
+#digiKlok{
+	display:block;
+	margin:auto;
+	text-align:center;
+	width:382px;
+	padding:10px;
+	font-family:"Courier New", Courier, monospace;
+	font-size:36px;
+	color:#CCC;
+	background-color:#000;
+	font-weight:900;
+}
+
+#zip{
+	position:absolute;
+	bottom:0px;
+}
